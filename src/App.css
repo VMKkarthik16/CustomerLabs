@@ -1,0 +1,134 @@
+.segment-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.popup {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: 20px;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.input-field {
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 5px;
+}
+
+.blue-box {
+  margin-bottom: 10px;
+}
+
+.schema-dropdown {
+  margin-bottom: 10px;
+}
+
+.dropdown {
+  width: 70%;
+}
+
+.add-schema-button {
+  margin-left: 10px;
+}
+
+.save-button {
+  padding: 5px 10px;
+  margin-top: 10px;
+}
+
+.segment-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.popup {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: 20px;
+  width: 300px;
+  margin: 0 auto;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.input-field {
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.blue-box {
+  margin-bottom: 10px;
+}
+
+.schema-dropdown {
+  margin-bottom: 10px;
+}
+
+.dropdown {
+  width: 70%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.add-schema-button {
+  margin-left: 10px;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.add-schema-button:hover {
+  background-color: #0056b3;
+}
+
+.save-button {
+  padding: 8px 12px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #28a745;
+  color: white;
+  cursor: pointer;
+}
+
+.save-button:hover {
+  background-color: #218838;
+}
+.Select-Shem{
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+.save-button{
+  margin-right: 40px;
+}
+
+.cancel-button{
+  padding: 8px 12px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+}
+
+.Save-Segemt{
+  padding: 8px 12px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #28a745;
+  color: white;
+  cursor: pointer;
+
+}
